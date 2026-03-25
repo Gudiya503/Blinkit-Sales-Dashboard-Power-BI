@@ -19,7 +19,7 @@ This project is a Power BI dashboard built to analyze Blinkit sales data.
 - Location-based Insights
 
 ## 📸 Dashboard Preview:
-(Upload image here)
+(Upload image here)https://github.com/Gudiya503/Blinkit-Sales-Dashboard-Power-BI/blob/main/Blinkit%20%20Images.jpg
 
 ## 🔗 Project File:
 Download .pbix file from this repository
