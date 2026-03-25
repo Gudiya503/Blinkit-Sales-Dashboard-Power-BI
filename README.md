@@ -23,3 +23,4 @@ This project is a Power BI dashboard built to analyze Blinkit sales data.
 
 ## 🔗 Project File:
 Download .pbix file from this repository
+https://github.com/Gudiya503/Blinkit-Sales-Dashboard-Power-BI/blob/main/Blinkit%20Dashboard.pbix
